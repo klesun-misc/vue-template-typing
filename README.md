@@ -1,7 +1,7 @@
 # vue-template-typing
 Just an idea for now - to make a webstorm extenstion that would show static typing errors in vue templates
 
-Possibly could just use: https://github.com/Yuyz0112/vue-type-check (did not manage to get it working so far ;c)
+Possibly could just use: https://github.com/Yuyz0112/vue-type-check (did not manage to get it working so far, it does not seem to work on windows ;c). Upd.: it seems to be just a wrapper for https://www.npmjs.com/package/vue-language-server
 
 Supposedly will achieve this:
 https://github.com/vuejs/vue-loader/issues/1561
