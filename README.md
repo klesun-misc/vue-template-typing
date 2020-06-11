@@ -21,3 +21,7 @@ And this is what I'd like to achieve:
 
 
 Would be also cool to add some annotation for mandatory parameters in a component...
+
+
+
+Upd.: will probably make it a part of [deep-js-completion](https://github.com/klesun/deep-js-completion)
