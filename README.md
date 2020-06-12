@@ -25,3 +25,10 @@ Would be also cool to add some annotation for mandatory parameters in a componen
 
 
 Upd.: will probably make it a part of [deep-js-completion](https://github.com/klesun/deep-js-completion)
+
+
+____________________
+
+Another, completely unrelated idea: a game based on triangular tiles. There are orthogonal ones, hexagonal ones, isometric ones, but I never saw a trigonal grid game. May think of some unique game mechanics where you can choose one of three directions per turn...
+
+![image](https://user-images.githubusercontent.com/5202330/84546274-ae5f1800-ad09-11ea-8946-5a6b05c382e3.png)
